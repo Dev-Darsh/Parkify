@@ -164,12 +164,10 @@ The objective of Parkify is to demonstrate how web development, database managem
 
 ## 👥 Project Team
 
-| Team Member |
-|---|
-| B S Dev Darsh |
-| Jensen Jose Sajan |
-| Krishna SP |
-| Rishika Kunnumpurath Chali |
+- B S Dev Darsh
+- Jensen Jose Sajan
+- Krishna SP
+- Rishika Kunnumpurath Chali
 
 ## ⚠️ Disclaimer
 
