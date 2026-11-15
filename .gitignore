@@ -1,0 +1,14 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+instance/
+database.db
+database-*.db
+*.sqlite
+*.sqlite3
+.DS_Store
+static/qrcodes/
