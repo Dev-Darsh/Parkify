@@ -103,7 +103,7 @@ python app.py
 
 ### 5. Open Parkify
 
-Visit the following URL in your browser:
+Visit:
 
 ```text
 http://127.0.0.1:5000
@@ -162,15 +162,22 @@ Parkify/
 
 The objective of Parkify is to demonstrate how web development, database management, QR-based verification, dynamic resource allocation, and machine learning can be integrated into a smart parking management platform.
 
+## 👥 Project Team
+
+| Team Member |
+|---|
+| B S Dev Darsh |
+| Jensen Jose Sajan |
+| Krishna SP |
+| Rishika Kunnumpurath Chali |
+
 ## ⚠️ Disclaimer
 
 Parkify is an academic software engineering prototype. Payments are recorded in demo mode and do not involve a real payment gateway. ML predictions use synthetic training data and should not be treated as validated real-world forecasts.
 
-## 👨‍💻 Author
+## 🔗 Repository
 
-**B S Dev Darsh**
-
-GitHub: [@Dev-Darsh](https://github.com/Dev-Darsh)
+[GitHub – Dev-Darsh/Parkify](https://github.com/Dev-Darsh/Parkify)
 
 ---
 
